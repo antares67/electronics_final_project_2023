@@ -1,0 +1,9 @@
+Importer Log Report
+Document: LTSpiceLibrary.SchLib
+    Section : Import Document - C:\Users\Cip\Documents\School\Semester 4\Electronics\electronics_final_project_2023\Imported gilbertcell_TEST_V1\LTSpiceLibrary.SchLib
+        Error: Unknown window modifier : 1 
+        Error: Unknown window modifier : 1 
+        Error: Document importing critical error
+ File : C:\Users\Cip\AppData\Local\Programs\ADI\LTspice\lib\sym\Digital\LTSpiceLibrary.SchLib
+ The method or operation is not implemented.
+    EndSection

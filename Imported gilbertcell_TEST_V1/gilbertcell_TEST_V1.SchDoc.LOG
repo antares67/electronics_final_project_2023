@@ -1,0 +1,38 @@
+Importer Log Report
+Document: C:\Users\Cip\Documents\School\Semester 4\Electronics\electronics_final_project_2023\gilbertcell_TEST_V1.asc
+    Section : Import Document - C:\Users\Cip\Documents\School\Semester 4\Electronics\electronics_final_project_2023\Imported gilbertcell_TEST_V1\gilbertcell_TEST_V1.SchDoc
+        Error: Could not recognize simulation model : npn  for part Q1
+        Error: Could not recognize simulation model : npn  for part QN?
+        Error: Could not recognize simulation model : npn  for part Q2
+        Error: Could not recognize simulation model : npn  for part QN?
+        Error: Could not recognize simulation model : npn  for part Q3
+        Error: Could not recognize simulation model : npn  for part QN?
+        Error: Could not recognize simulation model : npn  for part Q4
+        Error: Could not recognize simulation model : npn  for part QN?
+        Error: Could not recognize simulation model : npn  for part Q5
+        Error: Could not recognize simulation model : npn  for part QN?
+        Error: Could not recognize simulation model : npn  for part Q6
+        Error: Could not recognize simulation model : npn  for part QN?
+        Error: Could not recognize simulation model : UniversalOpAmp  for part U1
+        Error: Could not recognize simulation model : UniversalOpAmp  for part X?
+        Error: Voltage source V1 has no parameters! Could not create simulation data!
+        Error: Voltage source V1 has no parameters! Could not create simulation data!
+        Error: Voltage source V2 has no parameters! Could not create simulation data!
+        Error: Voltage source V2 has no parameters! Could not create simulation data!
+        Error: Voltage source V5 has no parameters! Could not create simulation data!
+        Error: Voltage source V5 has no parameters! Could not create simulation data!
+        Error: Voltage source V3 has no parameters! Could not create simulation data!
+        Error: Voltage source V3 has no parameters! Could not create simulation data!
+        Error: Could not recognize simulation model : UniversalOpAmp  for part U2
+        Error: Could not recognize simulation model : UniversalOpAmp  for part X?
+        Error: Could not recognize simulation model : UniversalOpAmp  for part U3
+        Error: Could not recognize simulation model : UniversalOpAmp  for part X?
+        Error: Unknown port rotation sNone
+        Error: Unknown port rotation sNone
+        Error: Unknown port rotation sNone
+        Error: Unknown port rotation sNone
+        Error: Unknown port rotation sMulti
+        Error: Unknown port rotation sMulti
+        Error: Unknown port rotation sNone
+        Error: Unknown port rotation sNone
+    EndSection
